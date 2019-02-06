@@ -6,7 +6,6 @@ galaxy_info:
   description: miniedu Mathematics Demo
   company: "MiniEdu"
   license: "license (BSD, MIT)"
-  min_ansible_version: 2.4
   platforms:
     - name: Moodle
       versions:
