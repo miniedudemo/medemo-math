@@ -13,9 +13,10 @@ galaxy_info:
         - 3.6.2
         - 2.4
   galaxy_tags:
+    - australia
+    - wa
+    - year6
+    - grade6
     - demo
     - test
-    - australia
-    - year6
     - prototype
-    - australiawa
