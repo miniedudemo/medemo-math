@@ -2,8 +2,8 @@
 dependencies: []
 
 galaxy_info:
-  author: miniedu
-  description: miniedu Mathematics Demo
+  author: miniedu + miniedudemo
+  description: miniedu Mathematics Demo Fork
   company: "MiniEdu"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.4
